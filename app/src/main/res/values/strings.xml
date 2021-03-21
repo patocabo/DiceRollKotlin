@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollKotlin</string>
+    <string name="button_text">Roll</string>
+    <string name="dice_text">1</string>
+</resources>
